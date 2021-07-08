@@ -1,5 +1,7 @@
 # f0-outliers.praat
 
+[![DOI](https://zenodo.org/badge/384227966.svg)](https://zenodo.org/badge/latestdoi/384227966)
+
 Identify possible extraction errors in Pitch objects.
 
 ## Purpose
