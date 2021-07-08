@@ -1,4 +1,4 @@
-# f0_outliers.praat
+# f0-outliers.praat
 
 Identify possible extraction errors in Pitch objects.
 
